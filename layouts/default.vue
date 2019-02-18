@@ -1,11 +1,12 @@
 <template>
   <div>
+    <h1 class="title has-text-centered has-text-primary">DEMO: Book a reservation</h1>
     <nuxt />
   </div>
 </template>
 
 <style>
-html {
+/* html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
     Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
@@ -51,5 +52,5 @@ html {
 .button--grey:hover {
   color: #fff;
   background-color: #35495e;
-}
+} */
 </style>

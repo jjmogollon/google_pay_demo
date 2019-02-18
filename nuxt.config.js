@@ -28,6 +28,7 @@ module.exports = {
   ** Global CSS
   */
   css: [
+    {src: '~/assets/sass/app.sass', lang: 'sass' },
   ],
 
   /*
@@ -43,7 +44,7 @@ module.exports = {
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
     // Doc:https://github.com/nuxt-community/modules/tree/master/packages/bulma
-    '@nuxtjs/bulma'
+    // '@nuxtjs/bulma'
   ],
   /*
   ** Axios module configuration
